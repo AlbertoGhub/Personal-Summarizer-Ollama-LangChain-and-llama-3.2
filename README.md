@@ -1,1 +1,1 @@
-# Personal-Summarizer-Ollama-and-llama-3.2
+# Personal-Summarizer-Ollama-LangChain-and-llama-3.2
